@@ -1,6 +1,6 @@
 # zeba_academy_education_app
 
-A new Flutter project.
+### A new Flutter project.
 
 This app contains student learning platform where the users can login in and they can choose which course they wanted to learn from the begining this is the app's senerio.
 
